@@ -1,1 +1,6 @@
-# Write your code here
+class GetRequester 
+  
+  
+  
+  # Write your code here
+end
